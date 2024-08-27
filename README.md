@@ -26,6 +26,11 @@ Eventually, this database is essential for ensuring data persistence, enabling c
 ## ENTITYS
 <img width="964" alt="Screen Shot 2024-08-27 at 16 49 02" src="https://github.com/user-attachments/assets/b5ca34fb-1d96-4c64-9b91-77a61d7b2e87">
 
-
 ## Product
 <img width="964" alt="Screen Shot 2024-08-27 at 16 50 17" src="https://github.com/user-attachments/assets/b197b011-4dd9-4fad-a971-52510caf8caf">
+
+## ERD Diagram
+<img width="1394" alt="image" src="https://github.com/user-attachments/assets/479f116b-fedb-46d4-a070-51582f36e380">
+
+## Generalization Table
+<img width="1182" alt="image" src="https://github.com/user-attachments/assets/aebb7535-8d53-4bc2-8053-bfe39355b3ef">
