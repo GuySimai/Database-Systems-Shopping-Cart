@@ -3,6 +3,9 @@
 ## original (java) program:
 The original Java program is designed as an online shopping system that manages a store's stock and a customer's shopping cart. It allows users to interact with a digital catalog of products, add or remove items from their shopping cart, and update the quantity of items in the cart. The system also provides functionality to sort and present the products in stock based on various criteria such as category, name, or quantity.
 
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/3759eb0e-9413-4e56-9495-cb6fddaa0e3c">
+
+
 ## REQUIREMENTS FOR THE SYSTEM
 The database is intended to store and manage all the data related to the online shopping system. 
 Product Information: Details about each product, including category, name, quantity, and any specific attributes.
