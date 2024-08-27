@@ -17,5 +17,7 @@ Stock Management: Information about the current stock levels of each product. Th
 Eventually, this database is essential for ensuring data persistence, enabling complex queries, and maintaining a structured, scalable system.
 
 ## SYSTEM USER
-Ability to browse the product catalog
-![image](https://github.com/user-attachments/assets/cf1c71cf-fc3c-4a66-92bd-7667f1a0b5fb)
+1- Ability to browse the product catalog
+2- manage the shopping cart (add, update, and remove items)
+3- Show client shopping cart
+
