@@ -23,5 +23,6 @@ Eventually, this database is essential for ensuring data persistence, enabling c
 
 3- Show client shopping cart
 
-## ENTITYS<img width="964" alt="Screen Shot 2024-08-27 at 16 49 02" src="https://github.com/user-attachments/assets/b5ca34fb-1d96-4c64-9b91-77a61d7b2e87">
+## ENTITYS
+<img width="964" alt="Screen Shot 2024-08-27 at 16 49 02" src="https://github.com/user-attachments/assets/b5ca34fb-1d96-4c64-9b91-77a61d7b2e87">
 
