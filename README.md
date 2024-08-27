@@ -18,6 +18,8 @@ Eventually, this database is essential for ensuring data persistence, enabling c
 
 ## SYSTEM USER
 1- Ability to browse the product catalog
+
 2- manage the shopping cart (add, update, and remove items)
+
 3- Show client shopping cart
 
