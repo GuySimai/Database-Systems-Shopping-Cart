@@ -15,3 +15,7 @@ Shopping Cart: Details about the products the user has added to their cart, time
 Stock Management: Information about the current stock levels of each product. The database tracks the quantity of each product in the inventory, ensuring that the system can update stock levels when purchases are made or products are added or removed from the catalog.
 
 Eventually, this database is essential for ensuring data persistence, enabling complex queries, and maintaining a structured, scalable system.
+
+## SYSTEM USER
+Ability to browse the product catalog
+![image](https://github.com/user-attachments/assets/cf1c71cf-fc3c-4a66-92bd-7667f1a0b5fb)
